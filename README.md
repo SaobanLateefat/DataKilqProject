@@ -19,16 +19,13 @@ Let's take another question which says Revenue and their growth (MOM) -- First I
 
 Revenue = CALCULATE([Revenue], DATEADD('Calender Table'[Date], -1, MONTH))
 
-
-![](https://github.com/SaobanLateefat/Data
-kliq/blob/master/HomeDash.PNG)
-
-
-
 and then to get the MOM I used      MOM %(R) = DIVIDE([Revenue] - [Prev month Revenue], [Prev month Revenue] * 100)
 to get my Month of Month.
 
 There are plenty of DAX calculations there but let me just stop here. After the whole analysis, I then went ahead to create my Report using appropriate visuals/charts to represent my stuff.
+
+
+![](https://github.com/SaobanLateefat/Datakliq/blob/master/HomeDash.PNG)
 
 
 
