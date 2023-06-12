@@ -24,8 +24,7 @@ to get my Month of Month.
 
 There are plenty of DAX calculations there but let me just stop here. After the whole analysis, I then went ahead to create my Report using appropriate visuals/charts to represent my stuff.
 
-
-![](https://github.com/SaobanLateefat/Datakliq/blob/master/HomeDash.PNG)
+![](https://github.com/SaobanLateefat/DataKilqProject/blob/master/HomeDash.PNG)
 
 
 
