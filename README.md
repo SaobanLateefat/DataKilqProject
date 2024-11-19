@@ -27,6 +27,8 @@ There are plenty of DAX calculations there but let me just stop here. After the 
 ![](https://github.com/SaobanLateefat/DataKilqProject/blob/master/HomeDash.PNG)
 
 
+TO interact with the dashboard click here : [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiODlkNTE2OGQtZjc4YS00MGU2LWJjMjAtMTljZjhkNGM2MzY2IiwidCI6IjkxNWE5ODczLTM0M2ItNDM2Ny04OGY0LTdhZjU1YjcyNzZiOSJ9)
+
 
 
 
